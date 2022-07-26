@@ -3,6 +3,10 @@
 Start up landing page for a fictional application named TinDog. TinDog allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder.
 
 
+![screencapture-127-0-0-1-5500-index-html-2022-07-27-00_27_51](https://user-images.githubusercontent.com/88983923/181105892-54fda27c-e03f-423d-81d7-114ccbf4516f.png)
+
+
+
 
 ## Built With
 
